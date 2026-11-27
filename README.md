@@ -1,8 +1,5 @@
-<h1 align="center">Hi, ich bin Arda 👋</h1>
-
 <p align="center">
-  Informatikschüler an der <b>HTL Leonding</b> · Linz, Österreich<br/>
-  Ich entwickle digitale Lösungen – und suche ein Unternehmen für meine Diplomarbeit.
+  <a href="https://doenmez.at"><img src="./header.svg" width="100%" alt="Arda Dönmez – Informatik an der HTL Leonding" /></a>
 </p>
 
 <p align="center">
