@@ -10,14 +10,14 @@
 
 ---
 
-### 🚀 Über mich
+### Über mich
 
 - 🎓 4. Jahrgang, Abteilung Informatik an der HTL Leonding
 - 🔍 **Auf der Suche nach einem Diplomarbeitspartner** – ein Unternehmen, mit dem ich gemeinsam mit meinem Team ein praxisnahes Projekt umsetzen kann
 - 💡 Interessiert an Softwareentwicklung, Webentwicklung und modernen Technologien
 - 📫 Am schnellsten erreichbar über [doenmez.at](https://doenmez.at) oder per E-Mail
 
-### 🛠️ Womit ich arbeite
+### Womit ich arbeite
 
 **Sprachen**
 
@@ -31,7 +31,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,rider,idea,webstorm&perline=8" alt="IDEs" />
 
-### 📂 Projekte
+### Projekte
 
 | Projekt | Beschreibung | Technologien |
 |---|---|---|
